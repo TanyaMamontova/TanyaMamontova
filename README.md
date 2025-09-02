@@ -33,18 +33,17 @@
   **Стек:**
   ![Bizagi](https://img.shields.io/badge/Bizagi-FF6F00?logo=bizagi&logoColor=white)
   ![BPMN](https://img.shields.io/badge/BPMN-2F74B5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAA...)
+  
 - [optics-sales-bi-datalens](https://github.com/TanyaMamontova/optics-sales-bi-datalens)
-
   Проект BI: витрина данных и аналитическая отчётность в Yandex DataLens.
   **Стек:**  
   ![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-FFCC00?logo=yandex&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-- [iot-street-lighting-article](https://github.com/TanyaMamontova/iot-street-lighting-article)
   
+- [iot-street-lighting-article](https://github.com/TanyaMamontova/iot-street-lighting-article)
   Научная статья: применение IoT для управления уличным освещением.  
 
 - [it-academic-mini-projects](https://github.com/TanyaMamontova/it-academic-mini-projects)
-
   Сборник небольших учебных работ: UML-кейсы, ТЗ, календарное планирование (MS Project), устав проекта.  
   **Стек:**
   ![UML](https://img.shields.io/badge/UML-007396?logo=uml&logoColor=white)
