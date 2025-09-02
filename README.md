@@ -1,4 +1,4 @@
-Привет 👋 Я Мамонтова Татьяна
+### Привет 👋 Я Мамонтова Татьяна
 
 🎓 Окончила **РЭУ им. Плеханова (2025)**  
 📚 Направление: *Бизнес-информатика: цифровая трансформация бизнеса*  
@@ -37,7 +37,7 @@
   ![BPMN](https://img.shields.io/badge/BPMN-2F74B5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAA...)
   
 - [optics-sales-bi-datalens](https://github.com/TanyaMamontova/optics-sales-bi-datalens)
-  Проект BI: витрина данных и аналитическая отчётность в Yandex DataLens.
+  Проект BI: витрина данных и аналитическая отчётность в Yandex DataLens.  
   **Стек:**  
   ![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-FFCC00?logo=yandex&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
