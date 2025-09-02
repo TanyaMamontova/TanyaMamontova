@@ -7,6 +7,7 @@
 
 - [ml-happiness-index-prediction](https://github.com/TanyaMamontova/ml-happiness-index-prediction)  
   Прогнозирование индекса счастья с использованием методов машинного обучения (программа проф. переподготовки «Анализ данных и машинное обучение в среде Python»).
+  
   **Стек:**
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
@@ -24,6 +25,7 @@
   
 - [bakery-automation-app](https://github.com/TanyaMamontova/bakery-automation-app)  
   Курсовая работа на тему "Разработка мобильного приложения для автоматизации деятельности пекарни «Muffins»"
+  
   **Стек:**
   ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
   ![Xamarin](https://img.shields.io/badge/Xamarin-3498db?logo=xamarin&logoColor=white) 
