@@ -33,7 +33,7 @@
 - [yandex-taxi-bpm-reengineering](https://github.com/TanyaMamontova/yandex-taxi-bpm-reengineering)  
   Реинжиниринг бизнес-процессов «Яндекс.Такси» (модели EPC и BPMN).  
   **Стек:**
-  ![Bizagi](https://img.shields.io/badge/Bizagi-FF6F00?logo=bizagi&logoColor=white)
+  ![Sila Union](https://img.shields.io/badge/Sila_Union-FF6F00?logo=data:image/png;base64,...)
   ![BPMN](https://img.shields.io/badge/BPMN-2F74B5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAA...)
   
 - [optics-sales-bi-datalens](https://github.com/TanyaMamontova/optics-sales-bi-datalens)
@@ -41,6 +41,7 @@
   **Стек:**  
   ![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-FFCC00?logo=yandex&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+  ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
   
 - [iot-street-lighting-article](https://github.com/TanyaMamontova/iot-street-lighting-article)
   Научная статья: применение IoT для управления уличным освещением.  
