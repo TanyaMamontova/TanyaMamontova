@@ -6,7 +6,7 @@
 Мой технологический стек:
 Python, Flask, PostgreSQL, Pandas, Numpy, HTML5, CSS3, scikit-learn, Matplotlib, BPMN, UML, EPC.
 
-Работала в следующих инструментах / ПО:
+Работаю в следующих инструментах / ПО:
 Excel, MS Project, Yandex DataLens, draw.io, bpmn.io, stormbpmn,  PyCharm, Jupyter Notebook, Google Colab, Redash, Sila Union.
 
 
